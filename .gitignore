@@ -1,0 +1,35 @@
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+.vscode/
+*.log
+
+# Local databases / generated files
+*.db
+*.db-journal
+todos.db
+
+# NuGet / packages
+packages/
+*.nupkg
+
+# Rider/JetBrains
+.idea/
+
+# Publish output
+publish/
+
+# Resharper
+_ReSharper*/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Ignore build and backup files
+*.backup
+*.tmp
